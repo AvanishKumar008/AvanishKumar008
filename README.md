@@ -14,7 +14,7 @@ I am Yasar, a computer geek; working as a Senior Software Engineer at [Epam Syst
     </summary>
 
 ### Profile Visits: 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=avanishEpam&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AvanishKumar008&show_icons=true&theme=radical)
 
 
 </details>
