@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi, This is Avanish :wave: 
 
-<!--
-**AvanishKumar008/AvanishKumar008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Yasar, a computer geek; working as a Senior Software Engineer at [Epam Systems](https://www.epam.com/). I have been working on Salesforce platform for 7+ years. I have worked on various projects with diverse domains. I find solving problems and creating solutions to be the most exciting & rewarding.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:mailbox: Reach me out!
+
+[![Linkedin Badge](https://img.shields.io/badge/-Avanish%20Kumar-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avanish1707/) [![Mail Badge](https://img.shields.io/badge/-Avanish%20Kumar-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:avanishkumar1707@hotmail.com)
+
+
+<details>
+    <summary>
+        More stuff about me
+    </summary>
+
+### Profile Visits: 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=avanishEpam&show_icons=true&theme=radical)
+
+
+</details>
