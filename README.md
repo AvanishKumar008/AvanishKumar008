@@ -5,7 +5,7 @@ I am Yasar, a computer geek; working as a Senior Software Engineer at [Epam Syst
 
 :mailbox: Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Avanish%20Kumar-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avanish1707/) [![Mail Badge](https://img.shields.io/badge/-Avanish%20Kumar-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:avanishkumar1707@hotmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Avanish%20Kumar-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avanish1707/) [![Mail Badge](https://img.shields.io/badge/-Avanish%20Kumar-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:avanishkumar1707@hotmail.com) [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40Avanish)](https://twitter.com/avanish1707)
 
 
 <details>
